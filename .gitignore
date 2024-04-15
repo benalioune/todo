@@ -1,3 +1,5 @@
 
 ../.venv
 .DS_Store
+__pycahe__
+database/*
