@@ -1,5 +1,5 @@
 
-./.venv
+.venv
 .DS_Store
-todo/__pycahe__
-todo/database/*.py    
+__pycahe__
+database/*.py    
